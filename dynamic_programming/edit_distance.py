@@ -1,7 +1,4 @@
 """
-Author  : Turfa Auliarachman
-Date    : October 12, 2016
-
 This is a pure Python implementation of Dynamic Programming solution to the edit distance problem.
 
 The problem is :
